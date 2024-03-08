@@ -1,0 +1,20 @@
+
+
+  
+  .descripcion {
+    max-width: 70rem;
+    margin: 0 auto;
+    padding: 5rem; /* Ajusta el padding según tus necesidades */
+
+}
+
+#mapa {
+    width: 20rem;
+    height: 30rem; /* Puedes ajustar la altura según tus necesidades */
+    margin: 20px auto;
+}
+.bienvenida {
+  font-size: 1.3rem; /* Ajusta el tamaño de la fuente según tus preferencias */
+  font-weight: bold; /* Hace la fuente más gruesa */
+  line-height: 1.4; /* Ajusta el espaciado entre líneas si es necesario */
+}
